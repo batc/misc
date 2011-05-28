@@ -1,0 +1,4 @@
+fais-moi-un-nfsroot-netbsd.sh
+	build and configure everything to boot your NetBSD diskless client.
+	configuration should be self-explanatory.
+	following http://www.netbsd.org/docs/network/netboot/ + tweaks.
